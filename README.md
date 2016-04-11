@@ -1,5 +1,4 @@
 # TEST-hello-world
-tuorial
 
 This is an IDEA how we could change the readme-file in order to make it more helpful
 
